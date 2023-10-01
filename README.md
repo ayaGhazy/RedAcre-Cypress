@@ -7,4 +7,4 @@ In this challenge you are expected to get the first available flight price from 
 AirMalta Airline Site: https://airmalta.com/
 The price can be derived from the calendar
 
-To run cypress , use 
+To run code Kindly use >> npm run test
