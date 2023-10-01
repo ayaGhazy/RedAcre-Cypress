@@ -1,0 +1,23 @@
+{
+  "name": "redacre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reserveFlight.cy.ts",
+  "scripts": {
+    "cypress":"cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.0",
+    "cypress-real-events": "^1.10.3",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "@types/node": "^20.8.0",
+    "cypress-terminal-report": "^5.3.7"
+  }
+}
